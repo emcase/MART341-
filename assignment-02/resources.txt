@@ -1,1 +1,3 @@
-
+A directory is a repository or folder for storing files; text files, image files etc...
+VCS (Version Control System) is useful in that it stores changes to files over time.  It allows one to undo or cancel changes made.
+Acrylic Paint.  I enjoy paint pouring on canvas and furniture using acrylic paints.
