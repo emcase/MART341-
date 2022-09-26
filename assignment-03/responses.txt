@@ -1,3 +1,0 @@
-Q1) The IP address is the actual address; DNS is the human named address.  The DNS server translates so you don't need to know the IP address.
-Q2) A cookie is a piece of data that is stored within a web browser that the website can use at a later date.
-Q3) URL parts include: the Protocol(http:// or https://), the domain name and the path.
