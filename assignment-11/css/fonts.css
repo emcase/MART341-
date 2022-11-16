@@ -1,0 +1,45 @@
+@font-face{
+  font-family: 'Melatea';
+  src: url('../fonts/Melatea-ThinCondensed.ttf') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Melatea';
+  src: url('../fonts/Melatea-ThinCondensed.ttf') format('truetype');
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: 'Bangel-BlackWave';
+  src: url('../fonts/Bangel-BlackWave.otf') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bangel-BlackWave';
+  src: url('../fonts/Bangel-BlackWave.otf') format('truetype');
+  font-weight: 800;
+}
+
+@font-face{
+  font-family: 'SpillMilk';
+  src: url('../fonts/SpillMilk.otf') format('truetype');
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'SpillMilk';
+  src: url('../fonts/SpillMilk.otf') format('truetype');
+  font-weight: 800;
+}
+
+@font-face{
+  font-family: 'Luminari';
+  font-weight: 800;
+}
+
+@font-face{
+  font-family: 'Chalkduster';
+  font-style: normal;
+}
