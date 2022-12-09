@@ -9,14 +9,14 @@ body {
 
 /*-- Size Page --*/
 
-.about {
+.pricing {
   float: left;
   height: 500px;
   width: 100%;
 }
 /*  Picture*/
 
-.aboutpicture1 {
+.pricingpicture1 {
   text-align: left;
   float: left;
   padding-top: 40px;
@@ -25,7 +25,7 @@ body {
 }
 /* Heading */
 
-.about h1 {
+.pricing h1 {
   color: #9E0059;
   font-size: 100px;
   padding-top: 40px;
@@ -33,7 +33,7 @@ body {
 }
 /* . Main Body*/
 
-.about-details {
+.pricing-details {
   margin-top: 25px;
   margin-left: 5%;
   font-size: 20px;
@@ -45,13 +45,25 @@ body {
 }
 /*  Form Formatting*/
 
-.about-form {
+.pricing-form {
   background-color: #820263;
   margin-top: 50px;
   margin-left: 10%;
   float: left;
   width: 80%;
-  height: 500px;
+  height: 800px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 }
+/* Display Pricing Boxes*/
+
+.wrapper {
+ /*display: grid;*/
+ box-sizing: border-box;
+ border:2px solid;
+ border-color: #f29ca3;
+
+
+}
+
+
